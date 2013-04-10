@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="textView">HSV変換</string>
+    <string name="Capture">capture</string>
+    <string name="textView2">彩度</string>
+    <string name="textView3">明度</string>
+    <string name="app_name">可視光通信</string>
+    <string name="textView_main">カメラデータからデコード可能な文字コードを抽出中 \n</string>
+
+</resources>
